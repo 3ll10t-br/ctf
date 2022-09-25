@@ -1,4 +1,4 @@
-## ctf_easy
+# ctf_easy
 
 # write-ups
 

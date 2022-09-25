@@ -1,6 +1,6 @@
-# ctf_easy
+## ctf_easy
 
-//write-ups
+# write-ups
 
 //basic pentesting 
 https://311i0t.notion.site/Basic-Pentesting-THM-1d88c656c8b84abbaec8dbeb052ed36a
@@ -16,7 +16,7 @@ https://311i0t.notion.site/RootMe-THM-ed82940687f543859c7893cf01525e72
 
 ===========================================================================
 
-//thm
+# thm
 
 //basic pentesting
 https://tryhackme.com/room/basicpentestingjt

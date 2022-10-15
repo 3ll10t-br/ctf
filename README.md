@@ -16,7 +16,7 @@ https://311i0t.notion.site/RootMe-THM-ed82940687f543859c7893cf01525e72
 
 ============================================================
 
-# thm
+# thm_rooms
 
 //basic pentesting
 https://tryhackme.com/room/basicpentestingjt

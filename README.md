@@ -17,6 +17,9 @@ https://311i0t.notion.site/RootMe-THM-ed82940687f543859c7893cf01525e72
 //mr_robot
 https://311i0t.notion.site/Mr-Robot-THM-a2cc3fb78ac54283a04d7b528127050e
 
+//confidential
+https://311i0t.notion.site/Confidential-12fd33e24fb14438a3b75416e3c2e9d0
+
 ============================================================
 
 # thm_rooms
@@ -35,3 +38,6 @@ https://tryhackme.com/room/rrootme
 
 //mr_robot
 https://tryhackme.com/room/mrrobot
+
+//confidential
+https://tryhackme.com/room/confidential

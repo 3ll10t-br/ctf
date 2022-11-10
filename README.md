@@ -23,6 +23,8 @@ https://311i0t.notion.site/Confidential-12fd33e24fb14438a3b75416e3c2e9d0
 //anonymous
 https://311i0t.notion.site/Anonymous-6950df5b2c9c430781b24d3e2c9fba0e
 
+//net sec challenge
+https://311i0t.notion.site/Net-Sec-Challenge-fdb9daa1b33e4afeaeb908d42ae7c8b3
 
 # thm_rooms
 
@@ -46,3 +48,6 @@ https://tryhackme.com/room/confidential
 
 //anonymous
 https://tryhackme.com/room/anonymous
+
+//net sec challenge
+https://tryhackme.com/room/netsecchallenge

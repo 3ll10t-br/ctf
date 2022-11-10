@@ -2,10 +2,10 @@
 
 # write-ups
 
-//basic pentesting 
+//basic_pentesting 
 https://311i0t.notion.site/Basic-Pentesting-THM-1d88c656c8b84abbaec8dbeb052ed36a
 
-//simple ctf 
+//simple_ctf 
 https://311i0t.notion.site/Simple-CTF-THM-70385e10c5da4b2b92e4273b0ade1288
 
 //ohsint 
@@ -23,15 +23,15 @@ https://311i0t.notion.site/Confidential-12fd33e24fb14438a3b75416e3c2e9d0
 //anonymous
 https://311i0t.notion.site/Anonymous-6950df5b2c9c430781b24d3e2c9fba0e
 
-//net sec challenge
+//net_sec_challenge
 https://311i0t.notion.site/Net-Sec-Challenge-fdb9daa1b33e4afeaeb908d42ae7c8b3
 
 # thm_rooms
 
-//basic pentesting
+//basic_pentesting
 https://tryhackme.com/room/basicpentestingjt
 
-//simple ctf
+//simple_ctf
 https://tryhackme.com/room/easyctf
 
 //ohsint
@@ -49,5 +49,5 @@ https://tryhackme.com/room/confidential
 //anonymous
 https://tryhackme.com/room/anonymous
 
-//net sec challenge
+//net_sec_challenge
 https://tryhackme.com/room/netsecchallenge

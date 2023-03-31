@@ -26,6 +26,9 @@ https://311i0t.notion.site/Anonymous-6950df5b2c9c430781b24d3e2c9fba0e
 //net_sec_challenge
 https://311i0t.notion.site/Net-Sec-Challenge-fdb9daa1b33e4afeaeb908d42ae7c8b3
 
+//escape_the_hack
+https://311i0t.notion.site/Escape-The-Hack-da8d6ba4fa134d1c8d1701149917c93a
+
 # thm_rooms
 
 //basic_pentesting
@@ -51,3 +54,4 @@ https://tryhackme.com/room/anonymous
 
 //net_sec_challenge
 https://tryhackme.com/room/netsecchallenge
+
